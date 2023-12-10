@@ -95,3 +95,4 @@ Git clone [copied link to repo]
 
 - To copy above repository, the link is accessible through the green code button in the repository on Github 
 
+**some files (eg. X_train_prep, model outputs) are too big to be exported to the repo - when running the code on a local machine, these files will appear in the respected folders (results/data)** 
